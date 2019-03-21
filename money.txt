@@ -2,3 +2,4 @@ dollar
 euro
 pound
 rupees
+dharams
