@@ -3,3 +3,4 @@ euro
 pound
 rupees
 dharams
+canadian dollars
